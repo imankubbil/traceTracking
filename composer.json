@@ -1,0 +1,16 @@
+{
+    "name": "imankubbil/trace-tracking",
+    "description": "Trace Tracking",
+    "autoload": {
+        "psr-4": {
+            "Imankubbil\\TraceTracking\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "imankubbil",
+            "email": "39212986+imankubbil@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
